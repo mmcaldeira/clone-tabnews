@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Caldeiraverso</h1>
+    return <h1>Caldeiraverso - O multiverso caldeira</h1>
 }
 
 export default Home;
